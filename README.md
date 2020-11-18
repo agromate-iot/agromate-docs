@@ -16,8 +16,8 @@ This is a fledgling project.  Current thinking is to publish Arduino powered sen
 1. Install Oracle Virtual Box. I used 6.1.16, but you can probably get away with the latest: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 1. Create a new local directory.  E.g., C:\agromate-server
 1. Open Virtual Box > New
---1. Name: agromate-server
---1. Location: The directory you created above
+   1. Name: agromate-server
+   1. Location: The directory you created above
 --1. Type: Ubuntu
 --1. Next
 --1. RAM: 1024mb should be plenty, Next
