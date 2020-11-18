@@ -11,3 +11,6 @@ This is a fledgling project.  Current thinking is to publish Arduino powered sen
 1. Designs should be rugged, and engineered to be serviced in the field by a tech-aware farmer
 
 ![High Level Design](https://github.com/agromate-iot/agromate-docs/blob/main/img/hldPhase0.png)
+
+# Getting Started
+1. Install agromate-server: https://github.com/agromate-iot/agromate-server/blob/main/README.md
