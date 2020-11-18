@@ -10,4 +10,4 @@ This is a fledgling project.  Current thinking is to publish Arduino powered sen
 1. Ability to write to local media for caching purposes, to support low-connectivity environments
 1. Designs should be rugged, and engineered to be serviced in the field by a tech-aware farmer
 
-https://lucid.app/invitations/accept/7dbeb075-2957-4f74-a1fa-062c8880f2dc
+![High Level Design](https://github.com/agromate-iot/agromate-docs/blob/main/img/hldPhase0.png)
